@@ -19,12 +19,22 @@ Please provide feedback through standard channels.
 
 Enhancement ideas should be submitted via the [SMArt ideas portal](https://smartideas.ideas.aha.io/portal_session/new) with the component of **OpCon Web Installer** selected.
 
-To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
+To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
 
+### 1.0.1 - November 30, 2020
+#### Improvements & Fixes
+- Added the following items with Windows installers:
+    - **SMA OpCon** (the 20.00 consolidated replacement for *SMA OpCon Database Scripts*, *SMA OpCon SAM*, *SMA OpCon Solution Manager*)
+    - **SMA OpCon Documentation** (available for 19.1 and previous releases only, please use [https://help.smatechnologies.com](https://help.smatechnologies.com) for current documentation)
+- Removed the following items with Windows installers:
+    - **SMA OpCon Enterprise Manager x64 (No Reports)**
+    - **SMA OpCon Enterprise Manager x86 (No Reports)**
+    - **SMA OpCon Enterprise Manager x86**
+
 ### 1.0.0 - September 28, 2020
-#### Features 
+#### New Features 
 - Runs available Windows installers in the required order for successful installation or upgrade. 
 - Grants the ability to download or install (which will also download as a pre-requisite) installers from the distribution location.
 - Has the ability to run the installers from a filesystem rather than looking for the latest on the internet.
