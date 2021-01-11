@@ -7,9 +7,13 @@ The OpCon Web Installer (OWI) is a tool designed to make the process of installi
 
 To use the OWI tool, simply browse to the [latest release](https://github.com/smatechnologies/opcon-web-installer/releases/latest) of this repository and download the assets.  It should be a single zip file named OpConWebInstaller.zip.  Unzip this archive file, and you are ready to begin!  Double-click the application executable to launch the program.
 
+> ***Note:*** For web downloads, the machine will require access to **files.smatechnologies.com** on ports **443** and **990**.
+
 > ***Note:*** The application does not handle your license file.  Please follow standard procedures for acquiring and applying it.
 
 As new versions are made available, as long as the machine from which the application is running has access to this repository, it will detect and ask users to update to the latest version.  If a machine does not have access, users should follow the same steps they did on initial installation and simply download the latest release's assets.
+
+> ***Note:*** For self-updating, the machine will require access to **github.com** on port **443**.
 
 For information specific to an OpCon product component's installation, please see the [OpCon installation guide](https://help.smatechnologies.com/opcon/core/latest/index.htm#Files/Installation/Overview.htm).
 
@@ -22,6 +26,20 @@ Enhancement ideas should be submitted via the [SMArt ideas portal](https://smart
 To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
+
+### 1.1.0 - January 11, 2021
+#### New Features
+- Added the ability to download non-Windows based agents from the internet.
+- Added a new setting, **Show Short-Term Support (STS) Releases**, that controls whether or not STS releases are displayed to users.  The default value is false.
+- Added a new setting, **Show All Components**, that controls whether product components that are no longer part of the latest release are displayed.  The default value is false.
+
+#### Improvements & Fixes
+- Application configuration settings now have tooltips that provide more information about each option.  The *Location* step is now named *Settings*.
+- Application configuration is now saved to a *config.yml* file in the application directory.
+- Updated the setting selection for searching locally or the internet for packages to a checkbox named **Offline Mode**.  The default is false.
+- Fixed an issue where Microsoft-based agents would incorrectly show as not installed when they were present on the system.
+- Fixed the installer priority to always run SMA OpCon before installing other non-deprecated installers.
+- Simplified the requirements for web downloads.  Machines now require access to files.smatechnologies.com on ports 443 and 990 for the ability to download new versions from the internet.
 
 ### 1.0.1 - November 30, 2020
 #### Improvements & Fixes
