@@ -27,6 +27,13 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.2.0 - March 01, 2021
+#### New Features
+- OpCon Deploy's ImpEx2 server component now has its own installer and will be available with the OpCon package with the same release cadence. This makes it easy to upgrade ImpEx2 only when needed without having to upgrade OpCon or Deploy client. It also makes it easy to upgrade Deploy client without upgrading ImpEx2 or OpCon.
+
+#### Improvements & Fixes
+- Modified priority list to ensure Configuration Utility is installed/updated before SMA OpCon
+
 ### 1.1.0 - January 11, 2021
 #### New Features
 - Added the ability to download non-Windows based agents from the internet.
