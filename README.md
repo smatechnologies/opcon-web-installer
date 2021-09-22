@@ -27,6 +27,14 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.3.0 - September 22, 2021
+#### New Features
+- Customers will now have the ability to access and download the OpCon Web Installer (OWI) from a publicly hosted SMA FTP location.
+
+#### Improvements & Fixes
+- Fixed an issue where installation would still be attempted even when downloading the installer failed.
+- Improved speed and reliability for file transfers.
+
 ### 1.2.0 - March 01, 2021
 #### New Features
 - OpCon Deploy's ImpEx2 server component now has its own installer and will be available with the OpCon package with the same release cadence. This makes it easy to upgrade ImpEx2 only when needed without having to upgrade OpCon or Deploy client. It also makes it easy to upgrade Deploy client without upgrading ImpEx2 or OpCon.
@@ -65,5 +73,4 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 - Has the ability to run the installers from a filesystem rather than looking for the latest on the internet.
 - Has the ability to uninstall product components.
 - Works across OpCon component versions.  The same OpCon Web Installer can be used to upgrade from 19.0.x to 20.0.x and can also install a different or new version of an agent or connector.
-- Has the ability to self-update itself (not the OpCon components) and will notify users when updates are available. 
-
+- Has the ability to self-update itself (not the OpCon components) and will notify users when updates are available.
