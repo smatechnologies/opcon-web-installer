@@ -27,7 +27,8 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
-### 1.3.0 - September 22, 2021<a href="1-3-0"/>
+### 1.3.0
+##### September 22, 2021
 #### New Features
 - Customers will now have the ability to access and download the OpCon Web Installer (OWI) from a publicly hosted SMA FTP location.
 
@@ -35,14 +36,16 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 - Fixed an issue where installation would still be attempted even when downloading the installer failed.
 - Improved speed and reliability for file transfers.
 
-### 1.2.0 - March 01, 2021
+### 1.2.0
+##### March 01, 2021
 #### New Features
 - OpCon Deploy's ImpEx2 server component now has its own installer and will be available with the OpCon package with the same release cadence. This makes it easy to upgrade ImpEx2 only when needed without having to upgrade OpCon or Deploy client. It also makes it easy to upgrade Deploy client without upgrading ImpEx2 or OpCon.
 
 #### Improvements & Fixes
 - Modified priority list to ensure Configuration Utility is installed/updated before SMA OpCon
 
-### 1.1.0 - January 11, 2021
+### 1.1.0
+##### January 11, 2021
 #### New Features
 - Added the ability to download non-Windows based agents from the internet.
 - Added a new setting, **Show Short-Term Support (STS) Releases**, that controls whether or not STS releases are displayed to users.  The default value is false.
@@ -56,7 +59,8 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 - Fixed the installer priority to always run SMA OpCon before installing other non-deprecated installers.
 - Simplified the requirements for web downloads.  Machines now require access to files.smatechnologies.com on ports 443 and 990 for the ability to download new versions from the internet.
 
-### 1.0.1 - November 30, 2020
+### 1.0.1
+##### November 30, 2020
 #### Improvements & Fixes
 - Added the following items with Windows installers:
     - **SMA OpCon** (the 20.00 consolidated replacement for *SMA OpCon Database Scripts*, *SMA OpCon SAM*, *SMA OpCon Solution Manager*)
@@ -66,7 +70,8 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
     - **SMA OpCon Enterprise Manager x86 (No Reports)**
     - **SMA OpCon Enterprise Manager x86**
 
-### 1.0.0 - September 28, 2020
+### 1.0.0
+##### September 28, 2020
 #### New Features 
 - Runs available Windows installers in the required order for successful installation or upgrade. 
 - Grants the ability to download or install (which will also download as a pre-requisite) installers from the distribution location.
