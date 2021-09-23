@@ -27,7 +27,7 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
-### 1.3.0 - September 22, 2021
+### 1.3.0<br />September 22, 2021
 #### New Features
 - Customers will now have the ability to access and download the OpCon Web Installer (OWI) from a publicly hosted SMA FTP location.
 
