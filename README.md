@@ -27,6 +27,11 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.4.0
+##### October 12, 2021
+#### New Features
+- Customers are now able to leverage the Online Web Installer (OWI) to manage the installation and update process for supported connectors.
+
 ### 1.3.0
 ##### September 22, 2021
 #### New Features
