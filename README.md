@@ -26,6 +26,13 @@ Enhancement ideas should be submitted via the [SMArt ideas portal](https://smart
 To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
+### 1.5.0
+##### November 22, 2021
+#### New Features
+- New wizard that displays when previous packages are found installed and offers to update all to the latest version.
+
+#### Improvements & Fixes
+- Remove settings page and move to settings bar above packages list.  Filters are now applied in real-time.
 
 ### 1.4.0
 ##### October 12, 2021
