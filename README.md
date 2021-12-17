@@ -1,4 +1,3 @@
-
 # OpCon Web Installer
 
 The OpCon Web Installer (OWI) is a tool designed to make the process of installing and maintaining OpCon software easier.  It has the ability to connect to the [public distribution location of OpCon software](https://files.smatechnologies.com) automatically and download or install selected product components.
@@ -26,6 +25,12 @@ Enhancement ideas should be submitted via the [SMArt ideas portal](https://smart
 To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
+
+### 1.6.0
+##### December 17, 2021
+#### New Features
+- New SAFE MODE option on the welcome page removes all actions except DOWNLOAD from the package list.
+
 ### 1.5.0
 ##### November 22, 2021
 #### New Features
