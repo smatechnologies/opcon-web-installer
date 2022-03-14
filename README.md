@@ -26,6 +26,11 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.7.0
+##### March 14, 2022
+#### Improvements & Fixes
+- Fixed issue where Connectors that have been converted to ZIP packages for install were not showing the correct available operations.
+
 ### 1.6.0
 ##### December 17, 2021
 #### New Features
