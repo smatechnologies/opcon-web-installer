@@ -26,6 +26,11 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.9.0
+##### February 20, 2023
+#### New Features
+- Added new product SMA OpConMFT to Agents
+
 ### 1.8.0
 ##### November 22, 2022
 #### Improvements & Fixes
