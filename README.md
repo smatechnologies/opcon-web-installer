@@ -26,6 +26,11 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.10.0
+##### May 09, 2024
+#### New Features
+- Added new product SMA OpCon Relay to Relay
+
 ### 1.9.0
 ##### February 20, 2023
 #### New Features
