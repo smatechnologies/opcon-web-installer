@@ -26,6 +26,11 @@ To report an issue, please use the [Customer Community](https://smatechnologies.
 
 ## Release Notes
 
+### 1.11.0
+##### June 25, 2024
+#### Improvements & Fixes
+- Fixed issue where Offline Mode was causing the installer to fail when a newer version of any installed software is available.
+
 ### 1.10.0
 ##### May 09, 2024
 #### New Features
