@@ -22,7 +22,7 @@ Please provide feedback through standard channels.
 
 Enhancement ideas should be submitted via the [SMArt ideas portal](https://smartideas.ideas.aha.io/portal_session/new) with the component of **OpCon Web Installer** selected.
 
-To report an issue, please use the [Support Portal](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
+To report an issue, please use the [Support Portal](https://smatechnologies.force.com/smartusers/login) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
 
