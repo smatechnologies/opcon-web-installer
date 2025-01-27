@@ -14,7 +14,7 @@ As new versions are made available, as long as the machine from which the applic
 
 > ***Note:*** For self-updating, the machine will require access to **github.com** on port **443**.
 
-For information specific to an OpCon product component's installation, please see the [OpCon installation guide](https://help.smatechnologies.com/opcon/core/latest/index.htm#Files/Installation/Overview.htm).
+For information specific to an OpCon product component's installation, please see the [OpCon installation guide](https://help.smatechnologies.com/opcon/core/installation/components).
 
 ## Feedback
 
@@ -22,7 +22,7 @@ Please provide feedback through standard channels.
 
 Enhancement ideas should be submitted via the [SMArt ideas portal](https://smartideas.ideas.aha.io/portal_session/new) with the component of **OpCon Web Installer** selected.
 
-To report an issue, please use the [Customer Community](https://smatechnologies.force.com/smartusers/login]) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
+To report an issue, please use the [Support Portal](https://smatechnologies.force.com/smartusers/login) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
 
