@@ -20,11 +20,18 @@ For information specific to an OpCon product component's installation, please se
 
 Please provide feedback through standard channels.
 
-Enhancement ideas should be submitted via the [SMArt ideas portal](https://smartideas.ideas.aha.io/portal_session/new) with the component of **OpCon Web Installer** selected.
+Enhancement ideas should be submitted via [SMA Community Ideas](https://community.smatechnologies.com/ideas) with the component of **OpCon Web Installer** selected.
 
 To report an issue, please use the [Support Portal](https://smatechnologies.force.com/smartusers/login) and open a Support case.  We will ask you to be on the latest version.  If you are encountering issues please check here to verify you have the latest!
 
 ## Release Notes
+
+### 1.12.0
+##### March 3, 2025
+#### New Features
+- Added RPA Agent to Agents.
+- Added Fiserv DNA, RPA, and OpCon integrations to Integrations.
+- Replace manual offline mode with automatic offline mode.
 
 ### 1.11.0
 ##### July 9, 2024
@@ -34,12 +41,12 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 ### 1.10.0
 ##### May 09, 2024
 #### New Features
-- Added new product SMA OpCon Relay to Relay
+- Added new product SMA OpCon Relay to Relay.
 
 ### 1.9.0
 ##### February 20, 2023
 #### New Features
-- Added new product SMA OpConMFT to Agents
+- Added new product SMA OpConMFT to Agents.
 
 ### 1.8.0
 ##### November 22, 2022
@@ -84,7 +91,7 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 - OpCon Deploy's ImpEx2 server component now has its own installer and will be available with the OpCon package with the same release cadence. This makes it easy to upgrade ImpEx2 only when needed without having to upgrade OpCon or Deploy client. It also makes it easy to upgrade Deploy client without upgrading ImpEx2 or OpCon.
 
 #### Improvements & Fixes
-- Modified priority list to ensure Configuration Utility is installed/updated before SMA OpCon
+- Modified priority list to ensure Configuration Utility is installed/updated before SMA OpCon.
 
 ### 1.1.0
 ##### January 11, 2021
