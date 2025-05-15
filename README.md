@@ -30,6 +30,7 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 ##### May 15, 2025
 #### Improvements & Fixes
 - Replace automatic offline mode with manual offline mode.
+- Fixed issue where clicking 'Next' was causing the installer to crash.
 
 ### 1.12.0
 ##### March 3, 2025
