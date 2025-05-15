@@ -26,6 +26,11 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 
 ## Release Notes
 
+### 1.13.0
+##### April 28, 2025
+#### New Features
+- Replace automatic offline mode with manual offline mode.
+
 ### 1.12.0
 ##### March 3, 2025
 #### New Features
