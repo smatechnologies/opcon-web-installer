@@ -26,6 +26,11 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 
 ## Release Notes
 
+### 1.14.0
+##### March 26, 2026
+#### New Features
+- Added Encryption Tool to Utilities.
+
 ### 1.13.0
 ##### May 15, 2025
 #### Improvements & Fixes
