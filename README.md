@@ -26,6 +26,11 @@ To report an issue, please use the [Support Portal](https://smatechnologies.forc
 
 ## Release Notes
 
+### 1.15.0
+##### April 20, 2026
+#### Improvements & Fixes
+- Fixed infinite loop in self-updating OpCon Web Installer.
+
 ### 1.14.0
 ##### March 26, 2026
 #### New Features
